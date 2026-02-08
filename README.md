@@ -24,7 +24,7 @@ AI optimizes level design in real-time, not as enemies or procedural spam.
 
 AI-generated art was used for **concept and reference only**.
 
-## 🛠 Tech Stack
+## Tech Stack
 - Unity (3D)
 - AI: Gemini, Claude and DALL·E for game art
 - Tools: Google Antigravity
@@ -60,44 +60,15 @@ See [IMPLEMENTATION.md](IMPLEMENTATION.md) for full technical architecture.
 - Minimal memory overhead (<50MB)
 - Async AI response handling (no gameplay blocking)
 
-## 🎯 Why This AI?
-
-Instead of using AI for enemies, procedural content, or spam, we focused on **intelligent level balance**:
-- AI ensures the game feels right for YOUR skill level
-- Personalizes difficulty without breaking immersion
-- Learns your playstyle and respects your pace
-- Demonstrates responsible AI usage in games
 
 ## 👥 Team & Credits
 - **Development:** Mumen, Maab
 - **Art & Design:** Mumen, Maab
-- **AI Integration:** Mumen, Maab
 - **Tools Used:**
   - Unity 6.2 (game engine)
   - Claude (level design optimization & concept development)
   - DALL-E (concept art & environmental inspiration)
 
-## 🎓 Learnings & Results
-
-### What Worked Well
-- ✅ AI level adaptation is invisible yet powerful
-- ✅ Players never realize they're being guided by AI
-- ✅ Each playthrough feels uniquely tuned
-- ✅ Cozy tone is preserved (no intrusive UI or dialogue)
-
-### Challenges & Solutions
-- **Challenge:** How to detect player skill accurately?
-  - **Solution:** Track jump accuracy, collection speed, route efficiency, and hesitation patterns
-- **Challenge:** Adjust difficulty without harming cozy vibes?
-  - **Solution:** Use organic level variations (carrot positions, route options) instead of brutal difficulty spikes
-- **Challenge:** Ensure AI doesn't feel unfair or unpredictable?
-  - **Solution:** Use deterministic difficulty curves based on clear performance metrics
-
-### Metrics
-- Level adaptation latency: <100ms (real-time)
-- Memory footprint: ~15MB (skill tracking data)
-- CPU impact: <3% (background learning)
-- Works entirely offline (no API calls during gameplay)
 
 ## 🚀 How to Get Started
 
@@ -139,5 +110,5 @@ We'd love to hear your thoughts! Feedback on the AI's tone, gameplay flow, or co
 
 ---
 
-**Made with ❤️ for [Hackathon Name] — 2026**
+**Made with ❤️ for SuperCell AI Hackathon — 2026**
 
