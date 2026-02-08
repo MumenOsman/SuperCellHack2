@@ -6,7 +6,7 @@ Be a small rabbit exploring a giant world at your own pace, with the game itself
 ## Core Loop
 Move → Jump → Collect carrots → AI learns your skill → Difficulty adjusts → New routes open
 
-## Missions (5-Min Demo)
+## Missions (5-10Min Demo)
 - Collect all carrots
 - Reach the top counter
 - Complete a jump chain without falling
