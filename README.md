@@ -39,7 +39,7 @@ https://mumenosman.itch.io/almost-there
 
 No installation needed - plays in your browser!
 
-## 📋 Submission Documents
+## Submission Documents
 For detailed information, see:
 - **[SETUP.md](SETUP.md)** — Game controls and setup instructions
 - **[IMPLEMENTATION.md](IMPLEMENTATION.md)** — AI technical architecture & design
