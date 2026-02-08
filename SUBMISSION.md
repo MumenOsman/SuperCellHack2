@@ -81,7 +81,7 @@ Complete this checklist before submitting your project to the hackathon.
 Before uploading, fill in:
 
 ```
-Project Name: Almost Time
+Project Name: Almost There
 Team Members: Mumen, Maab
 University/Organization: [Your School/Company]
 AI Tools Used: Claude (level design optimization)
