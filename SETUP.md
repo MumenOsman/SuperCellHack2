@@ -1,4 +1,4 @@
-# 🛠 Setup & Build Instructions
+# Setup & Build Instructions
 
 ## Prerequisites
 - **Unity 6.2** or later

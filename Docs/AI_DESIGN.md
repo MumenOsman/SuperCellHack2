@@ -33,5 +33,5 @@ It would learn player skill and adjust the environment dynamically to keep the e
 - Cannot make the game unwinnable
 - Maintains fun, flow, and cozy aesthetic at all times
 
-> ⚠ Disclaimer: This AI system was **planned but not implemented** for the hackathon due to time constraints. The core gameplay loop (parkour + carrot collecting) is fully playable without it.
+> Disclaimer: This AI system was **planned but not implemented** for the hackathon due to time constraints. The core gameplay loop (parkour + carrot collecting) is fully playable without it.
 

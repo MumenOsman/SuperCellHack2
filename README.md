@@ -8,7 +8,7 @@ Hop into a cozy 3D parkour adventure! Play as a curious rabbit exploring a famil
 - Hand-crafted level design with multiple routes to explore
 - No fail states, designed for flow and relaxation
 
-## 🤖 AI Design (Planned)
+## AI Design (Planned)
 AI is designed to optimize level design in real-time—this is a **planned system** being developed:
 - Would learn skill through movement and completion patterns
 - Would adjust carrot placement and route difficulty dynamically
@@ -32,7 +32,7 @@ AI-generated art was used for **concept and reference only**.
 - Tools: Google Antigravity
 - Target: Hackathon prototype
 
-## 🎮 Play Now
+## Play Now
 👉 **[Play in Browser](web-build/V0.0.2/)** — WebGL build, no installation needed
 
 👉 **Watch Demo** — [Insert YouTube/Drive link here](DEMO_LINK_HERE)
@@ -51,10 +51,10 @@ For detailed information, see:
 - No external API keys required for base gameplay
 
 ### Current Build Status
-- ✅ **Gameplay:** Fully playable parkour mechanics
-- ✅ **Level Design:** Hand-crafted cozy kitchen environment
-- ✅ **Carrot Collection:** Complete core gameplay loop
-- 🚧 **AI System:** Planned but not yet implemented
+- Gameplay: Fully playable parkour mechanics
+- Level Design: Hand-crafted cozy kitchen environment
+- Carrot Collection: Complete core gameplay loop
+- AI System: Planned but not yet implemented
 
 See [AI_DESIGN.md](Docs/AI_DESIGN.md) for details on planned adaptive difficulty system.
 
@@ -88,7 +88,7 @@ See [AI_DESIGN.md](Docs/AI_DESIGN.md) for details on planned adaptive difficulty
 
 For detailed setup, see [SETUP.md](SETUP.md).
 
-## 📁 Project Structure
+## Project Structure
 ```
 Almost-There/
 ├── Assets/
@@ -116,5 +116,5 @@ contact at: https://www.linkedin.com/in/mumenosman/
 
 ---
 
-**Made with ❤️ for SuperCell AI Hackathon — 2026**
+**Made with care for SuperCell AI Hackathon — 2026**
 

@@ -2,9 +2,9 @@
 
 Complete this checklist before submitting your project to the hackathon.
 
-## 🎯 Pre-Submission Requirements
+## Pre-Submission Requirements
 
-### ✅ Playable Build
+### Playable Build
 - [x] **WebGL Build** - Playable in browser (web-build/V0.0.2/)
   - [x] Tested and playable without installation
   - [x] No missing assets or errors
@@ -14,7 +14,7 @@ Complete this checklist before submitting your project to the hackathon.
   - [ ] Windows .exe build available (optional)
   - [ ] Source code ready to build in Unity 6.2
 
-### ✅ Documentation
+### Documentation
 - [x] **README.md** - Complete overview with all sections
   - [x] Project name: "Almost There"
   - [x] Team: Mumen, Maab
@@ -41,7 +41,7 @@ Complete this checklist before submitting your project to the hackathon.
   - [x] Story.md (game narrative)
   - [x] ART_SOURCES.md (art references)
 
-### ✅ Game Content
+### Game Content
 - [x] **Core Gameplay** - Fully implemented and playable
   - [x] Parkour mechanics (jump, dash, bounce)
   - [x] Carrot collection system
@@ -54,7 +54,7 @@ Complete this checklist before submitting your project to the hackathon.
   - [x] Art sources documented
   - [x] AI-generated art marked as "concept and reference only"
 
-### ⚠️ Demo & Marketing
+### Demo & Marketing
 - [ ] **Demo Video** (Recommended, not required)
   - [ ] 2-3 minute gameplay walkthrough
   - [ ] Shows core mechanics
@@ -67,7 +67,7 @@ Complete this checklist before submitting your project to the hackathon.
   - [ ] Carrot collection
   - [ ] UI/HUD design
 
-### ✅ GitHub Setup
+### GitHub Setup
 - [x] **Repository**
   - [x] Public or shareable GitHub repository
   - [x] `.gitignore` includes Library/, Builds/, obj/, bin/
@@ -75,22 +75,22 @@ Complete this checklist before submitting your project to the hackathon.
   - [x] All required files included
   - [x] README visible on landing page
 
-### ✅ Metadata & Attribution
+### Metadata & Attribution
 - [x] **Team Members:** Mumen, Maab
 - [x] **AI Tools:** Claude (design planning), DALL-E (concept art)
 - [x] **Tech Stack:** Unity 6.2, C#
 - [x] **Attribution:** All tools and sources credited
 - [x] **License:** If applicable, specify (e.g., MIT, CC)
 
-## 🤖 AI-Specific Checklist
+## AI-Specific Checklist
 
 - [x] **AI System Documented**
   - [x] Architecture explained in IMPLEMENTATION.md
   - [x] Clear about planned vs. implemented
 
 - [x] **Honest About Status**
-  - [x] ✅ Game is fully playable WITHOUT AI
-  - [x] 🚧 AI system is planned for future development
+  - [x] Game is fully playable WITHOUT AI
+  - [x] AI system is planned for future development
   - [x] No false claims about AI features
 
 - [x] **Responsible AI Usage**
@@ -137,7 +137,7 @@ and adapt to the player rather than replace human design. The hackathon scope al
 us to build a fully playable game with a well-designed AI system for future development."
 ```
 
-## 🎯 Quality Assurance Checklist
+## Quality Assurance Checklist
 
 ### Gameplay Testing
 - [x] Game launches without crashes
@@ -192,18 +192,18 @@ us to build a fully playable game with a well-designed AI system for future deve
 - [ ] Screenshot of successful submission
 - [ ] Note exact time submitted
 
-## ✅ Success Criteria
+## Success Criteria
 
 You're ready to submit when:
-- ✅ Game is fully playable (works in browser)
-- ✅ No crashes or major bugs
-- ✅ All documentation is complete and accurate
-- ✅ AI status is clearly communicated (honest about what's planned vs. done)
-- ✅ All links work (GitHub, demo, etc.)
-- ✅ Team members are credited
-- ✅ Submitted before deadline
+- Game is fully playable (works in browser)
+- No crashes or major bugs
+- All documentation is complete and accurate
+- AI status is clearly communicated (honest about what's planned vs. done)
+- All links work (GitHub, demo, etc.)
+- Team members are credited
+- Submitted before deadline
 
-## 💡 Hackathon Best Practices
+## Hackathon Best Practices
 
 ### What Judges Look For
 1. **Completeness** - Is the project finished and playable?
@@ -212,14 +212,14 @@ You're ready to submit when:
 4. **Honesty** - Clear about capabilities and limitations
 5. **User Experience** - Is it fun/engaging to try?
 
-### Dos ✅
+### Dos
 - Be proud of what you built
 - Explain your design choices clearly
 - Show off the playable version
 - Be honest about what's planned vs. complete
 - Make it easy for judges to try your game
 
-### Don'ts ❌
+### Don'ts
 - Overclaim AI capabilities
 - Submit incomplete features as done
 - Make judges hunt for how to play
