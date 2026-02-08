@@ -74,18 +74,7 @@ See our documentation for detailed analysis:
 - Runs smoothly on modern hardware (60+ FPS)
 - Minimal memory overhead (<50MB)
 - No gameplay delays
-
-## How AI Made This Better
-
-The development process relied heavily on AI:
-1. **Game Concept** - Claude explored game mechanics and theme options
-2. **Level Design** - AI analysis provided insights into optimal challenge progression
-3. **Visual Direction** - DALL-E and design AI inspired the aesthetic and art style
-4. **Difficulty Tuning** - AI-informed strategies for balancing challenge and accessibility
-5. **Code Architecture** - AI helped structure the codebase efficiently
-
-This isn't meant to be a gimmick - these tools were essential to shipping a complete, polished game on a tight hackathon schedule.
-
+  
 
 ## Team & Credits
 - **Development:** Mumen, Maab
