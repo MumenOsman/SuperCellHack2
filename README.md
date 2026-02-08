@@ -33,15 +33,19 @@ AI-generated art was used for **concept and reference only**.
 - Target: Hackathon prototype
 
 ## Play Now
-👉 **[Play in Browser](web-build/V0.0.2/)** — WebGL build, no installation needed
+Play "Almost There" directly on itch.io:
 
-👉 **Watch Demo** — [Insert YouTube/Drive link here](DEMO_LINK_HERE)
+https://mumenosman.itch.io/almost-there
+
+No installation needed - plays in your browser!
 
 ## 📋 Submission Documents
 For detailed information, see:
-- **[SETUP.md](SETUP.md)** — How to build and run the game
+- **[SETUP.md](SETUP.md)** — Game controls and setup instructions
 - **[IMPLEMENTATION.md](IMPLEMENTATION.md)** — AI technical architecture & design
 - **[DOCS/](Docs/)** — Game design, AI design, art sources, story
+
+**Play the Game:** https://mumenosman.itch.io/almost-there
 
 ## Technical Details
 
@@ -75,10 +79,10 @@ See [AI_DESIGN.md](Docs/AI_DESIGN.md) for details on planned adaptive difficulty
 
 ## How to Get Started
 
-**Option 1: Play the Executable**
-1. Download the `.exe` build from [RELEASE_LINK]
-2. Run it directly—no installation needed
-3. Enjoy the game!
+**Best Option: Play on itch.io**
+1. Visit: https://mumenosman.itch.io/almost-there
+2. Click "Run game" in your browser
+3. Enjoy playing!
 
 **Option 2: Play from Source (Requires Unity 6.2)**
 1. Clone this repository
@@ -86,7 +90,7 @@ See [AI_DESIGN.md](Docs/AI_DESIGN.md) for details on planned adaptive difficulty
 3. Load the main scene
 4. Press Play
 
-For detailed setup, see [SETUP.md](SETUP.md).
+For detailed setup, including controls and gameplay tips, see [SETUP.md](SETUP.md).
 
 ## Project Structure
 ```
