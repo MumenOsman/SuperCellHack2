@@ -1,6 +1,6 @@
 # 🐇 Almost There
 
-A cozy 3D parkour game set in a giant kitchen, where a rabbit explores and collects carrots. AI learns your skill and adapts the level layout to match your playstyle.
+Hop into a cozy 3D parkour adventure! Play as a curious rabbit exploring a familiar, oversized world. Leap across platforms, discover hidden paths, and collect carrots at your own pace. Your unique playstyle is observed by an adaptive AI that gently shapes the challenges ahead, creating a personalized and comforting journey just for you.
 
 ## 🎮 Gameplay
 - Parkour-based movement (jump, dash, bounce)
@@ -17,13 +17,17 @@ AI optimizes level design in real-time, not as enemies or procedural spam.
 ## 🎨 Art Direction
 - Soft, toy-like proportions
 - Pastel colors and warm lighting
-- Supercell-inspired readability and charm
+
+![DALL·E 2026-02-08 14 14 00 - A cozy 3D game scene rendered in warm, soft lighting with the same pastel, clean color style as before  In the center, a curious, fluffy brown cartoon](https://github.com/user-attachments/assets/2af62f76-e5e8-4131-999d-49b2e64ccaa8)
+
+  
 
 AI-generated art was used for **concept and reference only**.
 
 ## 🛠 Tech Stack
 - Unity (3D)
-- AI: Claude / DALL·E (concept & dialogue)
+- AI: Gemini, Claude and DALL·E for game art
+- Tools: AntiGravity
 - Target: Hackathon prototype
 
 ## � Demo
